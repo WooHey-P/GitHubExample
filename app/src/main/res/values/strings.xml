@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHubExample</string>
+    <string name="main_tv_hello">안녕</string>
 </resources>
